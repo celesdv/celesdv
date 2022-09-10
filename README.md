@@ -2,24 +2,26 @@
 
 <h2 align="center">FullStack Developer 💪 💻 - Mendoza, Argentina</h2>
 
-<img align='right' src="https://media.giphy.com/media/l0MYNJC1oGwKLfqso/giphy.gif" alt="Welcome!" width="30%"/>
+<img align='right' src="https://media.giphy.com/media/bTsDIfDSJF4Vq/giphy.gif" alt="Welcome!" width="26%"/>
 
-```javascript
-const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS, Java, PHP],
-   techStack: {
-       frontEnd: {
-           js: ["React", "Angular"],
-           css: ["bootstrap", "primeNG"]
-       },
-       backEnd: ["Java", "PHP"],
-       databases: ["MySql"],
-   }
-};
-```
+### About me :eyes:
+
+   - 🙎 I’m a self-taught person, with initiative and creativity
+   - 🔭 I’m currently working on something amazing
+   - 💻 I’m working as a FullStack developer
+   - 📚 I have worked on Java, PHP, HTML/CSS, Javascript, etc.
+   - 🌱 Improving my React skills
+   - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+   
+
 
 <br>
 
+<details>
+<summary>:rocket: My Stats</summary>
+
+<!--START_SECTION:activity-->
+<br>
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=celesdv&theme=midnight-purple"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=celesdv&show_icons=true&theme=midnight-purple"/>
@@ -28,4 +30,9 @@ const aboutMe = {
 <div align="center">
   <img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celesdv&layout=compact&theme=midnight-purple&card_width=1200"/>
 </div>
+<!--END_SECTION:activity-->
+
+</details>
+
+
 
