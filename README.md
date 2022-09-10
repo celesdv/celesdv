@@ -2,7 +2,7 @@
 
 <h2 align="center">FullStack Developer 💪 💻 - Mendoza, Argentina</h2>
 
-<img align='right' src="https://media.giphy.com/media/3rgXBETfAu65Gw6jwA/giphy.gif" alt="Welcome!" width="30%"/>
+<img align='right' src="https://media.giphy.com/media/l0MYNJC1oGwKLfqso/giphy.gif" alt="Welcome!" width="30%"/>
 
 ```javascript
 const aboutMe = {
@@ -17,6 +17,8 @@ const aboutMe = {
    }
 };
 ```
+
+<br>
 
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=celesdv&theme=midnight-purple"/>
