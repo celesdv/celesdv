@@ -18,8 +18,7 @@
 <br>
 
 <details>
-<summary><h3>🚀 My Stats</h3></summary>
-
+   <summary><h3>🚀 My Stats</h3></summary>
    <br>
    <div align="center">
       <img width="49%" src="https://github-readme-stats.vercel.app/api?username=celesdv&show_icons=true&theme=midnight-purple"/>
@@ -33,47 +32,67 @@
 </details>
 
 <details>
-<summary><h3>🔨 Languages and Tools</h3></summary>
+   <summary><h3>🔨 Languages and Tools</h3></summary>
+   
+   **BackEnd:**
+   ![Java](https://img.shields.io/badge/-Java-blueviolet?style=flat&logo=java&logoColor=white)
+   ![Spring](https://img.shields.io/badge/-Spring-blueviolet?style=flat&logo=spring&logoColor=white)
+   ![SpringBoot](https://img.shields.io/badge/-Springboot-blueviolet?style=flat&logo=springboot&logoColor=white)
+   ![Maven](https://img.shields.io/badge/-Maven-blueviolet?style=flat&logo=apache-maven&logoColor=white)
+   ![XML](https://img.shields.io/badge/-XML-blueviolet?style=flat&logo=xml&logoColor=white)
+   ![JSON](https://img.shields.io/badge/-JSON-blueviolet?style=flat&logo=json&logoColor=white)
+   ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=white)
 
-**BackEnd:**
-![Java](https://img.shields.io/badge/-Java-blueviolet?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-blueviolet?style=flat&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/-Springboot-blueviolet?style=flat&logo=springboot&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-blueviolet?style=flat&logo=apache-maven&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-blueviolet?style=flat&logo=xml&logoColor=white)
-![JSON](https://img.shields.io/badge/-JSON-blueviolet?style=flat&logo=json&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=white)
+   **FrontEnd:**
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-indigo?style=flat&logo=javascript&logoColor=white)
+   ![HTML](https://img.shields.io/badge/-HTML-indigo?style=flat&logo=html&logoColor=white)
+   ![CSS](https://img.shields.io/badge/-CSS-indigo?style=flat&logo=css&logoColor=white)
+   ![Angular](https://img.shields.io/badge/-Angular-indigo?style=flat&logo=angular&logoColor=white)
+   ![React](https://img.shields.io/badge/-React-indigo?style=flat&logo=react&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-indigo?style=flat&logo=bootstrap&logoColor=white)
+   ![PrimeNG](https://img.shields.io/badge/-PrimeNG-indigo?style=flat&logo=primeng&logoColor=white)
 
-**FrontEnd:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-indigo?style=flat&logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-indigo?style=flat&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-indigo?style=flat&logo=css&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-indigo?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-indigo?style=flat&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-indigo?style=flat&logo=bootstrap&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/-PrimeNG-indigo?style=flat&logo=primeng&logoColor=white)
-
-**SQL:**
-![SQL](https://img.shields.io/badge/-SQL-mediumpurple?style=flat&logo=sql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-mediumpurple?style=flat&logo=mysql&logoColor=white)
+   **SQL:**
+   ![SQL](https://img.shields.io/badge/-SQL-mediumpurple?style=flat&logo=sql&logoColor=white)
+   ![MySQL](https://img.shields.io/badge/-MySQL-mediumpurple?style=flat&logo=mysql&logoColor=white)
 
 
-**Software Development:**
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-slateblue?style=flat&logo=Visual-Studio-Code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-slateblue?style=flat&logo=IntelliJ-IDEA&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/-NetBeans-slateblue?style=flat&logo=Apache-NetBeans-IDE&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse-slateblue?style=flat&logo=Eclipse-IDE&logoColor=white)
+   **Software Development:**
+   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-slateblue?style=flat&logo=Visual-Studio-Code&logoColor=white)
+   ![Visual Studio](https://img.shields.io/badge/-VisualStudio-slateblue?style=flat&logo=IntelliJ-IDEA&logoColor=white)
+   ![NetBeans IDE](https://img.shields.io/badge/-NetBeans-slateblue?style=flat&logo=Apache-NetBeans-IDE&logoColor=white)
+   ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-slateblue?style=flat&logo=Eclipse-IDE&logoColor=white)
 
-**SDLC:**
-![Agile](https://img.shields.io/badge/-Agile-darkslateblue?style=flat&logo=Agile&logoColor=white)
+   **Version Control:**
+   ![Gitbucket](https://img.shields.io/badge/-Gitbucket-purple?style=flat&logo=gitbucket)
+   ![Git](https://img.shields.io/badge/-Git-purple?style=flat&logo=git&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github&logoColor=white)
 
-**Software Engineering:**
-![Jira](https://img.shields.io/badge/-Jira-darkorchid?style=flat&logo=jira&logoColor=white)
-![Taiga](https://img.shields.io/badge/-Taiga-darkorchid?style=flat&logo=taiga&logoColor=white)
+   **Software Engineering:**
+   ![Jira](https://img.shields.io/badge/-Jira-darkorchid?style=flat&logo=jira&logoColor=white)
+   ![Taiga](https://img.shields.io/badge/-Taiga-darkorchid?style=flat&logo=taiga&logoColor=white)
 
-**Version Control:**
-![Gitbucket](https://img.shields.io/badge/-Gitbucket-purple?style=flat&logo=gitbucket)
-![Git](https://img.shields.io/badge/-Git-purple?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github&logoColor=white)
+   **SDLC:**
+   ![Agile](https://img.shields.io/badge/-Agile-darkslateblue?style=flat&logo=Agile&logoColor=white)
+</details>
 
+<details>
+   <summary><h3>🎓 Education and certificates</h3></summary>
+
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Avalith - ReactJS ✨
+   
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy - Java 🎉
+   
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) INTI - FullStack development ⌨️
+   
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) EggEducacion - FullStack development 🖥️
+   
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) UTN.BA - PHP y MySQL 📚
+   
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) UTN.BA - Professional FrontEnd 🎨
+   
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Universidad de Mendoza - Architecture 🏗️
+   
+   
+</details>
 
