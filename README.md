@@ -86,7 +86,7 @@
 <details>
    <summary><h3>🎓 Education and certificates</h3></summary>
 
-   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Avalith - ReactJS ✨
+   ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith - ReactJS ✨
    
    ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy - Java 🎉
    
