@@ -42,6 +42,9 @@
    ![XML](https://img.shields.io/badge/-XML-blueviolet?style=flat&logo=xml&logoColor=white)
    ![JSON](https://img.shields.io/badge/-JSON-blueviolet?style=flat&logo=json&logoColor=white)
    ![PHP](https://img.shields.io/badge/-PHP-blueviolet?style=flat&logo=php&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-blueviolet?style=flat&logo=javascript&logoColor=white)
+   ![Node](https://img.shields.io/badge/-Node-blueviolet?style=flat&logo=node&logoColor=white)
+   ![Express](https://img.shields.io/badge/-Express-blueviolet?style=flat&logo=express&logoColor=white)
 
    **FrontEnd:**
    ![JavaScript](https://img.shields.io/badge/-JavaScript-indigo?style=flat&logo=javascript&logoColor=white)
@@ -49,8 +52,10 @@
    ![CSS](https://img.shields.io/badge/-CSS-indigo?style=flat&logo=css&logoColor=white)
    ![Angular](https://img.shields.io/badge/-Angular-indigo?style=flat&logo=angular&logoColor=white)
    ![React](https://img.shields.io/badge/-React-indigo?style=flat&logo=react&logoColor=white)
+   ![Svelte](https://img.shields.io/badge/-Svelte-indigo?style=flat&logo=svelte&logoColor=white)
    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-indigo?style=flat&logo=bootstrap&logoColor=white)
    ![PrimeNG](https://img.shields.io/badge/-PrimeNG-indigo?style=flat&logo=primeng&logoColor=white)
+   ![Tailwind](https://img.shields.io/badge/-Tailwind-indigo?style=flat&logo=tailwind&logoColor=white)
 
    **SQL:**
    ![SQL](https://img.shields.io/badge/-SQL-mediumpurple?style=flat&logo=sql&logoColor=white)
@@ -67,10 +72,12 @@
    ![Gitbucket](https://img.shields.io/badge/-Gitbucket-purple?style=flat&logo=gitbucket)
    ![Git](https://img.shields.io/badge/-Git-purple?style=flat&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/-GitHub-purple?style=flat&logo=github&logoColor=white)
+   ![GitLab](https://img.shields.io/badge/-GitLab-purple?style=flat)
 
    **Software Engineering:**
    ![Jira](https://img.shields.io/badge/-Jira-darkorchid?style=flat&logo=jira&logoColor=white)
    ![Taiga](https://img.shields.io/badge/-Taiga-darkorchid?style=flat&logo=taiga&logoColor=white)
+   ![Trello](https://img.shields.io/badge/-Trello-darkorchid?style=flat&logo=trello&logoColor=white)
 
    **SDLC:**
    ![Agile](https://img.shields.io/badge/-Agile-darkslateblue?style=flat&logo=Agile&logoColor=white)
